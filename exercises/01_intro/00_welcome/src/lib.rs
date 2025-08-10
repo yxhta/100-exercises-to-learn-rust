@@ -16,8 +16,8 @@
 // If you get stuck for more than 10 minutes on an exercise, grab a trainer! We're here to help!
 // You can also find solutions to all exercises in the `solutions` git branch.
 fn greeting() -> &'static str {
-    // TODO: fix me 👇
-    "I'm ready to __!"
+    let s = "I'm ready to learn Rust!";
+    return s;
 }
 
 // Your solutions will be automatically verified by a set of tests.
